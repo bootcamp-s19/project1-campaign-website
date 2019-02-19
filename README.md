@@ -60,16 +60,16 @@ It is okay if your project has more files and more directories, but at the least
 
 1. Website must be responsive
 2. Choose Four Bootstrap Components to include from this list:
-..* Badge
-..* Button
-..* Caption
-..* Card
-..* Collapse
-..* Icon
-..*List Group
-..* Media Object
-..* Popovers
-..* Tooltip
+* Badge
+* Button
+* Caption
+* Card
+* Collapse
+* Icon
+* List Group
+* Media Object
+* Popovers
+* Tooltip
 3. Augment Five Bootstrap Utilities to suit the needs of your website
 4. A few (more than 3) prominent pictures of your candidate
 5. A table displaying important information for voters
