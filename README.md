@@ -6,6 +6,7 @@ Create a website promoting your favorite *FICTIONAL* character from a book, TV s
 
 Briefly research the role of Constable, then design a political website for your chosen character. [Here's a link to get you started.](https://en.wikipedia.org/wiki/Constables_in_the_United_States#Kentucky)
 
+
 ### Website Content
 
 Your website should introduce the public to your candidate, explain why they are running, and list three issues that are important to them.
