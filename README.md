@@ -7,11 +7,13 @@ Create a website promoting your favorite *FICTIONAL* character from a book, TV s
 Briefly research the role of Constable, then design a political website for your chosen character. [Here's a link to get you started.](https://en.wikipedia.org/wiki/Constables_in_the_United_States#Kentucky)
 
 **Website Content**
+
 Your website should introduce the public to your candidate, explain why they are running, and list three issues that are important to them.
 Your job is to make it easy for voters to see whether your candidate's beliefs align with their own.
 To keep things light and fun, pick issues that pertain to the character in their fictional setting, not the real world. :-)
 
 **Objectives**
+
 To complete the assignment, you must:
 ###### Setup
 1. Create Heroku account
@@ -34,6 +36,7 @@ To complete the assignment, you must:
 5. Post links to your Github repo and Heroku application to the Project 1 Slack channel.
 
 **Application file structure**
+
 Minimally:
 `app/
     index.html - main page
@@ -71,9 +74,11 @@ Tooltip
 8. Punch out to a website
 
 **Remember to push to Github!**
+
 Your repo should be public so that others can see your code and comment on it.
 
 **Remember to deploy to Heroku!**
+
 You will need to follow our example boilerplate to set up an Express server.
 You will also need to include a Procfile so Heroku knows how to start your server.
 
@@ -93,6 +98,7 @@ Download Bootstrap and compile via Sass instead of using CDN
 
 
 **If you get stuck...**
+
 Ask. :-)
 
 ## Additional Resouces
