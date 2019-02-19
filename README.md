@@ -19,7 +19,7 @@ To complete the assignment, you must complete the following:
 1. Create Heroku account
 2. Establish Express server locally
 3. Fork existing repo: [https://github.com/bootcamp-s19/project1](https://github.com/bootcamp-s19/project1)
-4. Clone the forked repo locally in your ~/Sites/project1 folder
+4. Clone the forked repo locally in your ~/Sites/yourproject1 folder
 5. Add a style.css file to the /css directory
 6. Edit the index.html file to include the css file
 7. Edit the index.html file to include the Bootstrap reference via CDN
@@ -29,7 +29,7 @@ To complete the assignment, you must complete the following:
 ###### Deploy:
 1. Create Heroku App with existing repo
 
-`heroku git\:remote -a project1`
+`heroku git\:remote -a yourproject1`
 
 2. Push your code to Github remote
 3. Push your code to Heroku remote
