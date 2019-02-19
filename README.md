@@ -1,18 +1,18 @@
 # Project 1: Campaign Website
 
-**Description**
+### Description
 
 Create a website promoting your favorite *FICTIONAL* character from a book, TV show, movie, or graphic novel, who is running for the elected position of Constable in your magistrate district of Fayette County. (There are 3 such districts.)
 
 Briefly research the role of Constable, then design a political website for your chosen character. [Here's a link to get you started.](https://en.wikipedia.org/wiki/Constables_in_the_United_States#Kentucky)
 
-**Website Content**
+### Website Content
 
 Your website should introduce the public to your candidate, explain why they are running, and list three issues that are important to them.
 Your job is to make it easy for voters to see whether your candidate's beliefs align with their own.
 To keep things light and fun, pick issues that pertain to the character in their fictional setting, not the real world. :-)
 
-**Objectives**
+### Objectives
 
 To complete the assignment, you must:
 ###### Setup
@@ -35,7 +35,7 @@ To complete the assignment, you must:
 4. View your website on your laptop and phone
 5. Post links to your Github repo and Heroku application to the Project 1 Slack channel.
 
-**Application file structure**
+### Application file structure
 
 Minimally:
 `app/
@@ -52,7 +52,7 @@ Readme.txt - any important information
 Additional pages will be relative to the index.html file.
 It is okay if your project has more files and more directories, but at the least you need the ones listed above.
 
-**Requirements**
+### Requirements
 
 1. Website must be responsive
 2. Choose Four Bootstrap Components to include from this list:
@@ -73,16 +73,16 @@ Tooltip
 7. Scroll to an anchor tag
 8. Punch out to a website
 
-**Remember to push to Github!**
+### Remember to push to Github!
 
 Your repo should be public so that others can see your code and comment on it.
 
-**Remember to deploy to Heroku!**
+### Remember to deploy to Heroku!
 
 You will need to follow our example boilerplate to set up an Express server.
 You will also need to include a Procfile so Heroku knows how to start your server.
 
-**If you finish early...**
+### If you finish early...
 
 Continue to add content and pages to your site and improve the styling.
 Implement bootstrap components from this list that will enhance your site
@@ -101,7 +101,7 @@ Download Bootstrap and compile via Sass instead of using CDN
 
 Ask. :-)
 
-## Additional Resouces
+**Additional Resouces**
 
 For more information about using PHP on Heroku, see these Dev Center articles:
 
