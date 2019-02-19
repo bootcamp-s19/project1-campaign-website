@@ -106,7 +106,7 @@ Ask. :-)
 
 **Additional Resouces**
 
-- [https://expressjs.com/](https://expressjs.com/
+- [https://expressjs.com/](https://expressjs.com/)
 
 For more information about using PHP on Heroku, see these Dev Center articles:
 
