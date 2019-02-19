@@ -106,7 +106,8 @@ Ask. :-)
 
 **Additional Resouces**
 
-- [https://expressjs.com/](https://expressjs.com/)
+- [Express.js](https://expressjs.com/)
+- [Bootstrap 4](https://getbootstrap.com/docs/4.3/getting-started/introduction/)
 
 For more information about using PHP on Heroku, see these Dev Center articles:
 
