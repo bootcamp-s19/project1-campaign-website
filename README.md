@@ -60,16 +60,16 @@ It is okay if your project has more files and more directories, but at the least
 
 1. Website must be responsive
 2. Choose Four Bootstrap Components to include from this list:
-* Badge
-* Button
-* Caption
-* Card
-* Collapse
-* Icon
-* List Group
-* Media Object
-* Popovers
-* Tooltip
+    * Badge
+    * Button
+    * Caption
+    * Card
+    * Collapse
+    * Icon
+    * List Group
+    * Media Object
+    * Popovers
+    * Tooltip
 3. Augment Five Bootstrap Utilities to suit the needs of your website
 4. A few (more than 3) prominent pictures of your candidate
 5. A table displaying important information for voters
@@ -90,12 +90,12 @@ You will also need to include a Procfile so Heroku knows how to start your serve
 
 1. Continue to add content and pages to your site and improve the styling.
 2. Implement bootstrap components from this list that will enhance your site
-* Carousel
-* Jumbotron
-* Nav/Navbar
-* Progress
-* Spinner
-* Jumbotron
+    * Carousel
+    * Jumbotron
+    * Nav/Navbar
+    * Progress
+    * Spinner
+    * Jumbotron
 3. Download Bootstrap and compile via Sass instead of using CDN
 
 **If you get stuck...**
