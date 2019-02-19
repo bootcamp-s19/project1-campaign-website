@@ -17,7 +17,7 @@ To keep things light and fun, pick issues that pertain to the character in their
 To complete the assignment, you must complete the following:
 ###### Setup:
 1. Create Heroku account
-2. Establish Express server locally
+2. Setup and Run MAMP server locally
 3. Fork existing repo: [https://github.com/bootcamp-s19/project1](https://github.com/bootcamp-s19/project1)
 4. Clone the forked repo locally in your ~/Sites/yourproject1 folder
 5. Add a style.css file to the /css directory
@@ -25,7 +25,7 @@ To complete the assignment, you must complete the following:
 7. Edit the index.html file to include the Bootstrap reference via CDN
 ###### Develop:
 1. Add content and elements to your website
-2. View changes locally with Express
+2. View changes locally with MAMP (localhost)
 ###### Deploy:
 1. Create Heroku App with existing repo
 
@@ -46,7 +46,6 @@ app/
     css/ - folder to contain css files
        /style.css - stylesheet
     img/ - folder to contain any images
-app.js - file to run express
 composer.json - file for composer
 composer.lock - lock file for composer
 Procfile - **no** file extension
@@ -85,7 +84,8 @@ Your repo should be public so that others can see your code and comment on it.
 
 ### Remember to deploy to Heroku!
 
-You will need to follow our example boilerplate to set up an Express server.
+You will need to follow our example boilerplate to set up a MAMP server.
+
 You will also need to include a Procfile so Heroku knows how to start your server.
 
 ### If you finish early...
@@ -105,11 +105,13 @@ You will also need to include a Procfile so Heroku knows how to start your serve
 Ask. :-)
 
 **Additional Resouces**
-
-- [Express.js](https://expressjs.com/)
+- [MAMP](https://www.mamp.info/en/downloads/)
+- [MAMP Getting Started](https://www.youtube.com/playlist?list=PLXlVJXqzkgypxejj8DPVuc-HRz6ILx-dB)
 - [Bootstrap 4](https://getbootstrap.com/docs/4.3/getting-started/introduction/)
 
 For more information about using PHP on Heroku, see these Dev Center articles:
 
 - [Getting Started with PHP on Heroku](https://devcenter.heroku.com/articles/getting-started-with-php)
 - [PHP on Heroku](https://devcenter.heroku.com/categories/php)
+
+
