@@ -14,8 +14,8 @@ To keep things light and fun, pick issues that pertain to the character in their
 
 ### Objectives
 
-To complete the assignment, you must:
-###### Setup
+To complete the assignment, you must complete the following:
+###### Setup:
 1. Create Heroku account
 2. Establish Express server locally
 3. Fork existing repo: [https://github.com/bootcamp-s19/project1](https://github.com/bootcamp-s19/project1)
@@ -23,10 +23,10 @@ To complete the assignment, you must:
 5. Add a style.css file to the /css directory
 6. Edit the index.html file to include the css file
 7. Edit the index.html file to include the Bootstrap reference via CDN
-###### Development
+###### Develop:
 1. Add content and elements to your website
 2. View changes locally with Express
-###### Deployment
+###### Deploy:
 1. Create Heroku App with existing repo
         heroku git\:remote -a project1
 2. Push your code to Github remote
@@ -38,27 +38,17 @@ To complete the assignment, you must:
 
 Minimally:
 
-`app/`
-
-`    index.html - main page`
-
-`    css/ - folder to contain css files`
-
-`       /style.css - stylesheet`
-
-`    img/ - folder to contain any images`
-
-`app.js - file to run express`
-
-`composer.json - file for composer`
-
-`composer.lock - lock file for composer`
-
-`Procfile - **no** file extension`
-
-`Readme.txt - any important information`
-
-`.gitignore -`
+```app/
+    index.html - main page
+    css/ - folder to contain css files
+       /style.css - stylesheet
+    img/ - folder to contain any images
+app.js - file to run express
+composer.json - file for composer
+composer.lock - lock file for composer
+Procfile - **no** file extension
+Readme.txt - any important information
+.gitignore -```
 
 Additional pages will be relative to the index.html file.
 
@@ -68,7 +58,16 @@ It is okay if your project has more files and more directories, but at the least
 
 1. Website must be responsive
 2. Choose Four Bootstrap Components to include from this list:
-[Badge, Button, Caption, Card, Collapse, Icon, List Group, Media Object, Popovers, Tooltip]
+⋅⋅* Badge
+⋅⋅* Button
+⋅⋅* Caption
+⋅⋅* Card
+⋅⋅* Collapse
+⋅⋅* Icon
+⋅⋅*List Group
+⋅⋅* Media Object
+⋅⋅* Popovers
+⋅⋅* Tooltip
 3. Augment Five Bootstrap Utilities to suit the needs of your website
 4. A few (more than 3) prominent pictures of your candidate
 5. A table displaying important information for voters
