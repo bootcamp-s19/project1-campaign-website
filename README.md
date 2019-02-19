@@ -28,7 +28,9 @@ To complete the assignment, you must complete the following:
 2. View changes locally with Express
 ###### Deploy:
 1. Create Heroku App with existing repo
-        heroku git\:remote -a project1
+
+`heroku git\:remote -a project1`
+
 2. Push your code to Github remote
 3. Push your code to Heroku remote
 4. View your website on your laptop and phone
@@ -108,4 +110,3 @@ For more information about using PHP on Heroku, see these Dev Center articles:
 
 - [Getting Started with PHP on Heroku](https://devcenter.heroku.com/articles/getting-started-with-php)
 - [PHP on Heroku](https://devcenter.heroku.com/categories/php)
-- [![Deploy to Heroku](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
