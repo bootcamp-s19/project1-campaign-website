@@ -88,18 +88,15 @@ You will also need to include a Procfile so Heroku knows how to start your serve
 
 ### If you finish early...
 
-Continue to add content and pages to your site and improve the styling.
-Implement bootstrap components from this list that will enhance your site
-
-Carousel
-Jumbotron
-Nav/Navbar
-Progress
-Spinner
-Jumbotron
-
-Download Bootstrap and compile via Sass instead of using CDN
-
+1. Continue to add content and pages to your site and improve the styling.
+2. Implement bootstrap components from this list that will enhance your site
+* Carousel
+* Jumbotron
+* Nav/Navbar
+* Progress
+* Spinner
+* Jumbotron
+3. Download Bootstrap and compile via Sass instead of using CDN
 
 **If you get stuck...**
 
