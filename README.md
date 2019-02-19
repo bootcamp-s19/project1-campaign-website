@@ -38,7 +38,8 @@ To complete the assignment, you must complete the following:
 
 Minimally:
 
-```app/
+```
+app/
     index.html - main page
     css/ - folder to contain css files
        /style.css - stylesheet
@@ -48,7 +49,8 @@ composer.json - file for composer
 composer.lock - lock file for composer
 Procfile - **no** file extension
 Readme.txt - any important information
-.gitignore -```
+.gitignore - file that omits any directory/file from being tracked
+```
 
 Additional pages will be relative to the index.html file.
 
