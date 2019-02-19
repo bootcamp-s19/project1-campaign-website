@@ -6,7 +6,6 @@ Create a website promoting your favorite *FICTIONAL* character from a book, TV s
 
 Briefly research the role of Constable, then design a political website for your chosen character. [Here's a link to get you started.](https://en.wikipedia.org/wiki/Constables_in_the_United_States#Kentucky)
 
-
 ### Website Content
 
 Your website should introduce the public to your candidate, explain why they are running, and list three issues that are important to them.
@@ -30,7 +29,6 @@ To complete the assignment, you must:
 ###### Deployment
 1. Create Heroku App with existing repo
         heroku git\:remote -a project1
-
 2. Push your code to Github remote
 3. Push your code to Heroku remote
 4. View your website on your laptop and phone
@@ -39,34 +37,38 @@ To complete the assignment, you must:
 ### Application file structure
 
 Minimally:
-`app/
-    index.html - main page
-    css/ - folder to contain css files
-       /style.css - stylesheet
-    img/ - folder to contain any images
-app.js - file to run express
-composer.json - file for composer
-composer.lock - lock file for composer
-Procfile - **no** file extension
-Readme.txt - any important information
-.gitignore -`
+
+`app/`
+
+`    index.html - main page`
+
+`    css/ - folder to contain css files`
+
+`       /style.css - stylesheet`
+
+`    img/ - folder to contain any images`
+
+`app.js - file to run express`
+
+`composer.json - file for composer`
+
+`composer.lock - lock file for composer`
+
+`Procfile - **no** file extension`
+
+`Readme.txt - any important information`
+
+`.gitignore -`
+
 Additional pages will be relative to the index.html file.
+
 It is okay if your project has more files and more directories, but at the least you need the ones listed above.
 
 ### Requirements
 
 1. Website must be responsive
 2. Choose Four Bootstrap Components to include from this list:
-Badge
-Button
-Caption
-Card
-Collapse
-Icon
-List Group
-Media Object
-Popovers
-Tooltip
+[Badge, Button, Caption, Card, Collapse, Icon, List Group, Media Object, Popovers, Tooltip]
 3. Augment Five Bootstrap Utilities to suit the needs of your website
 4. A few (more than 3) prominent pictures of your candidate
 5. A table displaying important information for voters
