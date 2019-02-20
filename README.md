@@ -4,7 +4,7 @@
 
 Create a website promoting your favorite *FICTIONAL* character from a book, TV show, movie, or graphic novel, who is running for the elected position of Constable in your magistrate district of Fayette County. (There are 3 such districts.)
 
-Briefly research the role of Constable, then design a political website for your chosen character. [Here's a link to get you started.](https://en.wikipedia.org/wiki/Constables_in_the_United_States#Kentucky)
+Briefly research the role of Constable, then design a political website for your chosen character. [Here's a link to get you started.](https://en .wikipedia.org/wiki/Constables_in_the_United_States#Kentucky)
 
 ### Website Content
 
