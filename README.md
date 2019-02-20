@@ -27,10 +27,7 @@ To complete the assignment, you must complete the following:
 1. Add content and elements to your website
 2. View changes locally with MAMP (localhost)
 ###### Deploy:
-1. Create Heroku App with existing repo
-
-`heroku git\:remote -a yourproject1`
-
+1. Create Heroku App with existing repo `heroku git\:remote -a yourproject1`
 2. Push your code to Github remote
 3. Push your code to Heroku remote
 4. View your website on your laptop and phone
