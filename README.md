@@ -1,5 +1,5 @@
 # Project 1: Campaign Website
-###### *After Project 1, all requirements will be listed in `requirements.md`*
+###### After Project 1, all requirements will be listed in `requirements.md`
 
 ### Description
 
@@ -7,7 +7,7 @@ Create a website promoting your favorite *FICTIONAL* character from a book, TV s
 
 Briefly research the role of Constable, then design a political website for your chosen character. [Here's a link to get you started,](https://en.wikipedia.org/wiki/Constables_in_the_United_States#Kentucky) [ and here is another link with useful info that you will need.](#)
 
-### Website Content (MVP)
+### Website Content
 
 Your website should introduce the public to your candidate, explain why they are running, and list three issues that are important to them.
 Your job is to make it easy for voters to see whether your candidate's beliefs align with their own.
@@ -96,12 +96,13 @@ You will also need to include a Procfile so Heroku knows how to start your serve
     * Progress
     * Spinner
     * Jumbotron
+3. Augment more Bootstrap Utilities to enhance your website
 3. Download Bootstrap and compile via Sass instead of using CDN
-4. Add info to README.md
+4. Add info to your projects README.md (don't use this .md file for your project, these are just instructions for you) [README.md Best Practices](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
 
 **If you get stuck...**
-
-Ask. :-)
+- [Class Resources Repo](https://github.com/bootcamp-s19/Resources#resources)
+- Ask. :-)
 
 **Additional Resouces**
 - [MAMP](https://www.mamp.info/en/downloads/)
@@ -112,5 +113,3 @@ For more information about using PHP on Heroku, see these Dev Center articles:
 
 - [Getting Started with PHP on Heroku](https://devcenter.heroku.com/articles/getting-started-with-php)
 - [PHP on Heroku](https://devcenter.heroku.com/categories/php)
-
-
