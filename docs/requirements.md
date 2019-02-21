@@ -97,8 +97,8 @@ You will also need to include a Procfile so Heroku knows how to start your serve
     * Spinner
     * Jumbotron
 3. Augment more Bootstrap Utilities to enhance your website
-3. Download Bootstrap and compile via Sass instead of using CDN
-4. Add info to your projects README.md (don't use the supplied .md file for your project, these are just instructions for you) [README.md Best Practices](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
+4. Download Bootstrap and compile via Sass instead of using CDN
+5. Add info to your projects README.md (don't use the supplied .md file for your project, these are just instructions for you) [README.md Best Practices](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
 
 **If you get stuck...**
 - [Class Resources Repo](https://github.com/bootcamp-s19/Resources#resources)

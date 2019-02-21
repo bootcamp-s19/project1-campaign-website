@@ -2,4 +2,4 @@
 
 Read /docs/requirements.md for instructions.
 
-If you finish early, check line 101 in [requirements.md]()
+If you finish early, check #5 in [requirements.md](https://github.com/bootcamp-s19/project1-campaign-website/blob/master/docs/requirements.md#if-you-finish-early)
