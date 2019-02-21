@@ -1,4 +1,5 @@
 # Project 1: Campaign Website
+###### *After Project 1, all requirements will be listed in `requirements.md`*
 
 ### Description
 
@@ -6,7 +7,7 @@ Create a website promoting your favorite *FICTIONAL* character from a book, TV s
 
 Briefly research the role of Constable, then design a political website for your chosen character. [Here's a link to get you started,](https://en.wikipedia.org/wiki/Constables_in_the_United_States#Kentucky) [ and here is another link with useful info that you will need.](#)
 
-### Website Content
+### Website Content (MVP)
 
 Your website should introduce the public to your candidate, explain why they are running, and list three issues that are important to them.
 Your job is to make it easy for voters to see whether your candidate's beliefs align with their own.
@@ -96,6 +97,7 @@ You will also need to include a Procfile so Heroku knows how to start your serve
     * Spinner
     * Jumbotron
 3. Download Bootstrap and compile via Sass instead of using CDN
+4. Add info to README.md
 
 **If you get stuck...**
 
