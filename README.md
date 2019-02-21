@@ -18,7 +18,7 @@ To complete the assignment, you must complete the following:
 ###### Setup:
 1. Create Heroku account
 2. Setup and Run MAMP server locally
-3. Fork existing repo: [https://github.com/bootcamp-s19/project1](https://github.com/bootcamp-s19/project1)
+3. Fork existing repo: [https://github.com/bootcamp-s19/project1-campaign-website](https://github.com/bootcamp-s19/project1-campaign-website)
 4. Clone the forked repo locally in your ~/Sites/yourproject1 folder
 5. Add a style.css file to the /css directory
 6. Edit the index.html file to include the css file
