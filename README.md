@@ -32,14 +32,14 @@ To complete the assignment, you must complete the following:
 2. Push your code to Github remote
 3. Push your code to Heroku remote
 4. View your website on your laptop and phone
-5. Post links to your Github repo and Heroku application to the Project 1 Slack channel.
+5. Post links to your Github repo and Heroku application to the [projects Slack channel](https://bootcamp-s19.slack.com/messages/CGAUZ4SA0/).
 
 ### Application file structure
 
 Minimally:
 
 ```
-app/
+yourappname/
     index.html - main page
     css/ - folder to contain css files
        /style.css - stylesheet
@@ -47,7 +47,7 @@ app/
 composer.json - file for composer
 composer.lock - lock file for composer
 Procfile - **no** file extension
-Readme.txt - any important information
+README.md - any important information
 .gitignore - file that omits any directory/file from being tracked
 ```
 
