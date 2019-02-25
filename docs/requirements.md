@@ -59,7 +59,7 @@ It is okay if your project has more files and more directories, but at the least
 ### Requirements
 
 1. Website must be responsive
-2. Website must contain at least 3 distinct organisms that you create using the following:
+2. Website must contain at least [3 distinct organisms](https://patternlab.io/) that you create using the following:
     1. Choose at least Four Bootstrap Components to include from this list:
         * Badge
         * Button
