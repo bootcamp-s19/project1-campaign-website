@@ -27,6 +27,7 @@ To complete the assignment, you must complete the following:
 ###### Develop:
 1. Add content and elements to your website
 2. View changes locally with MAMP (localhost)
+3. Save often, and commit to github when important changes happen
 ###### Deploy:
 1. Create Heroku App with existing repo `heroku git\:remote -a yourproject1`
 2. Push your code to Github remote
@@ -108,8 +109,10 @@ You will also need to include a Procfile so Heroku knows how to start your serve
 - [MAMP](https://www.mamp.info/en/downloads/)
 - [MAMP Getting Started](https://www.youtube.com/playlist?list=PLXlVJXqzkgypxejj8DPVuc-HRz6ILx-dB)
 - [Bootstrap 4](https://getbootstrap.com/docs/4.3/getting-started/introduction/)
-
+- [Pull Requests](https://stackoverflow.com/questions/21657430/why-is-a-git-pull-request-not-called-a-push-request)
+  
 For more information about using PHP on Heroku, see these Dev Center articles:
 
 - [Getting Started with PHP on Heroku](https://devcenter.heroku.com/articles/getting-started-with-php)
 - [PHP on Heroku](https://devcenter.heroku.com/categories/php)
+  
