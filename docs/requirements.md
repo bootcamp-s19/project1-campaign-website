@@ -19,11 +19,11 @@ To complete the assignment, you must complete the following:
 1. Create Heroku account
 2. Setup and Run MAMP server locally
 3. Fork existing repo: [https://github.com/bootcamp-s19/project1-campaign-website](https://github.com/bootcamp-s19/project1-campaign-website)
-4. Clone the forked repo locally in your ~/Sites/yourproject1 folder
+4. Clone the forked repo locally in your `~/Sites/__your__project__1__folder__ folder`
 5. Add a index.html to `/campaign-website`
 6. Add a style.css file to the `/css` sub-directory
-7. Edit the index.html file to include the css file
-8. Edit the index.html file to include the Bootstrap reference via CDN
+7. Edit the index.html file to include the Bootstrap reference via CDN
+8. Edit the index.html file under the bootstrap CDP to include your css file
 ###### Develop:
 1. Add content and elements to your website
 2. View changes locally with MAMP (localhost)
@@ -43,7 +43,7 @@ Minimally:
 yourappname/
     index.html - main page
     css/ - folder to contain css files
-       /style.css - stylesheet
+       /style.css - your unique stylesheet
     img/ - folder to contain any images
 composer.json - file for composer
 composer.lock - lock file for composer
