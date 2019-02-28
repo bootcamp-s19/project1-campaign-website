@@ -17,6 +17,14 @@
 
 * Outgoing Oliver: Loves keeping up with the latest and greatest, especially in the political realm. Loves Samwise's type of ideas and would definitely vote for him.
 
-* Hater Heather: Like Oliver, loves politics and keeping afoot of current headlines, but hates what Samwise would stand for.
+* Hater Heather: Like Oliver, loves politics and keeping afoot of current headlines, but is against what Samwise would stand for.
 
 ### Stories
+
+* Eager Ernie: Needs an aesthetically pleasing website that is easily navigable in order to get to different parts of the site, so that the learning process is made more efficient.
+
+* Vapid Velma: Needs a website that is in her face; bold and forceful that will excite her into to vote for the candidate.
+
+* Outgoing Oliver: Needs a basic site; Oliver is already pretty aware of the candidate and what he is about so a quick way to navigate to the vote is the most important.
+
+* Hater Heather: Needs a persuasive site that is makes great arguments for the pros of voting for our candidate, arguments that overshadow her leanings towards the other sides promises.
