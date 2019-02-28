@@ -1,0 +1,39 @@
+.logo-link {
+    color: black;
+}
+
+.logo-link:hover {
+    color: black;
+    border-bottom: solid 2px black;
+}
+
+.navbar {
+    background-color: olive;
+}
+
+.navbar-text {
+    color: black;
+    font-size: 50px;
+    padding-right: 20%;
+}
+
+
+.nav-link {
+    color: white;
+    font-size: 50px;
+        
+}
+
+.nav-link:hover {
+    color: white;
+    border-bottom: solid 2px black;
+}
+
+.nav-item {
+    padding-right: 50px;
+}
+
+
+.banner {
+    padding-top: 140px;
+}

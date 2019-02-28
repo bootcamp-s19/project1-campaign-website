@@ -35,4 +35,4 @@
 
 * Hater Heather: Needs a persuasive site that makes great arguments for the pros of voting for our candidate, arguments that overshadow her leanings towards the other sides promises.
     * Visually pleasing unlike basic markdown file to make good first impression and hold interest, with bold button challenging them to delve further.
-        - As a Hater Heather I want to be persuaded/challenged to change my opposing opinions in order to be moved to vote for this candidate.
+        - As a Hater Heather I want to see proof of the candidates good deeds that will change my biased/opposing opinions in order to be moved to vote for this candidate.
