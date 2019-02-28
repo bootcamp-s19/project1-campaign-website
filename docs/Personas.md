@@ -4,10 +4,10 @@
 
 ### Minimum Viable Product (MVP)
 
-    1. Must Have:
-    2. Could Have:
-    3. Should Have:
-    4. Would Have:
+    1. Must Have: aesthetic appeal, navigaton bar/menu, hero element(s), button(s)
+    3. Should Have: email newsletter offer
+    2. Could Have: 
+    4. Won't Have: complex/unobvious navigation, simple/unappealing design, no standout/bold elements
 
 ### Personas
 
@@ -21,10 +21,18 @@
 
 ### Stories
 
-* Eager Ernie: Needs an aesthetically pleasing website that is easily navigable in order to get to different parts of the site, so that the learning process is made more efficient.
+* Eager Ernie: Needs an aesthetically pleasing website that is easily navigable, so that the learning process is made more efficient.
+    * Unlike a basic markdown file, with a navigation bar or a navigation menu, in order to access all available information present.
+        - As an Eager Ernie I want to visit and browse the candidate's website in order to gather more information about the issues to be more well informed.
 
-* Vapid Velma: Needs a website that is in her face; bold and forceful that will excite her into to vote for the candidate.
+* Vapid Velma: Needs a website that is in her face; bold and forceful that will excite her into impulsively voting for the candidate.
+    * Hero element that immediately induces excitement, bold button leading to vote.
+        - As a Vapid Velma I want to visit the candidates site to be quickly lead/drawn to the candidate in order to make a quick voting decision without doubts.
 
 * Outgoing Oliver: Needs a basic site; Oliver is already pretty aware of the candidate and what he is about so a quick way to navigate to the vote is the most important.
+    * Simplistic and obvious navigation, obvious and quick way to reach the vote with a bold button.
+        - As an Outgoing Oliver I want to quickly skim over the candidates website without diving in too deep in order to reach the voting process since my decision is made.
 
-* Hater Heather: Needs a persuasive site that is makes great arguments for the pros of voting for our candidate, arguments that overshadow her leanings towards the other sides promises.
+* Hater Heather: Needs a persuasive site that makes great arguments for the pros of voting for our candidate, arguments that overshadow her leanings towards the other sides promises.
+    * Visually pleasing unlike basic markdown file to make good first impression and hold interest, with bold button challenging them to delve further.
+        - As a Hater Heather I want to be persuaded/challenged to change my opposing opinions in order to be moved to vote for this candidate.
