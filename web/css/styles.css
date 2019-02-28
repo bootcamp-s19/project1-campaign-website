@@ -1,6 +1,5 @@
 .logo-link {
     color: black;
-    
 }
 
 .logo-link:hover {
@@ -24,9 +23,7 @@
 .nav-link {
     color: white;
     font-size: 50px;
-    line-height: 50px;
-    
-        
+    line-height: 50px;    
 }
 
 .nav-link:hover {
