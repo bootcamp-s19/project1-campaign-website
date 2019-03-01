@@ -42,6 +42,10 @@
     width: 100%;
 }
 
+#banner-info {
+    margin-bottom: -140px;
+}
+
 .ontop {
     color: #896f4c;
     position: relative;
@@ -69,3 +73,21 @@
     background-color: hsla(31, 32%, 27%, 0.6);
 }
 
+#card-place {
+    height: 30rem;
+    margin-bottom: 2rem;
+}
+
+.card-img {
+    height: 15rem;
+}
+
+h5, h6, .card-p {
+    text-align: center;
+}
+
+ /* included this bc I couldn't get the card links text to center, even using !important */
+
+body {
+    text-align: center;
+}
