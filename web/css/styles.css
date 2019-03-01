@@ -1,3 +1,5 @@
+/* navigation bar */
+
 .logo-link {
     color: #c9b18a;
 }
@@ -33,6 +35,8 @@
     padding-right: 70px;
 }
 
+/* image banner */
+
 .jumbotron-fluid {
     background-image: url(https://66.media.tumblr.com/b64a4f2271dc3c36fc362c940488235a/tumblr_p6awqiZIBL1wgm3uuo2_500.gif);
     background-size: cover;
@@ -60,9 +64,10 @@
 
 .ontop2 {
     background-color: hsla(22, 43%, 83%, 0.6);
+    border-radius: 15%;
     position: relative;
     bottom: 430px;
-    margin-left: 1225px;
+    margin-left: 1200px;
 }
 
 .btn:hover {
@@ -72,6 +77,8 @@
 .ontop2:hover {
     background-color: hsla(31, 32%, 27%, 0.6);
 }
+
+/* card deck */
 
 #card-place {
     height: 30rem;
@@ -86,8 +93,67 @@ h5, h6, .card-p {
     text-align: center;
 }
 
- /* included this bc I couldn't get the card links text to center, even using !important */
+.card-link {
+    color: #72593d;
+    font-weight: 700;
+}
+
+.card-link:hover {
+    color: #72593d;
+    border-bottom: 2px solid #72593d;
+}
+
+/* included this bc I couldn't get the card links text to center, even using !important */
 
 body {
     text-align: center;
+}
+
+/* vote banner */
+
+.vote-banner {
+    background-color: #251d18;
+    width: 100%;
+    min-height: 500px;
+    margin-bottom: 3%;
+}
+
+.vote-info, h1 {
+    color: #c9b18a;
+    font-size: 5rem;
+    padding-top: 8%;
+}
+
+.vote-info, h2 {
+    font-size: 3rem;
+}
+
+.vote-btn {
+    background-color: #f3ead8;
+}
+
+.vote-btn:hover {
+    background-color: #b79c71;
+    color: #251d18;
+}
+
+/* fellowship timeline */
+
+.thead {
+    background-color: #251d18;
+    color: #f3ead8;
+}
+
+.tbody {
+    color: #251d18;
+}
+
+.table-striped>tbody>tr:nth-child(odd)>td, 
+.table-striped>tbody>tr:nth-child(odd)>th {
+   background-color: #72593d;
+   color: #f3ead8
+}
+
+.table-cap {
+    color: #402f21;
 }
