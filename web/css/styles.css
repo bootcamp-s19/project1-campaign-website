@@ -1,41 +1,72 @@
 .logo-link {
-    color: black;
+    color: #c9b18a;
 }
 
 .logo-link:hover {
-    color: black;
-    border-bottom: 2px solid black;
+    color: #c9b18a;
+    border-bottom: 2px solid #c9b18a;
     text-decoration: none;
 }
 
 .navbar {
-    background-color: olive;
+    background-color: #251d18;
 }
 
 .navbar-text {
     color: black;
-    font-size: 50px;
-    padding-right: 20%;
-    
+    font-size: 40px;
+    padding-right: 25%;
 }
 
-
 .nav-link {
-    color: white;
-    font-size: 50px;
+    color: #f3ead8;
+    font-size: 40px;
     line-height: 50px;    
 }
 
 .nav-link:hover {
-    color: white;
-    border-bottom: 2px solid white;
+    color: #f3ead8;
+    border-bottom: 2px solid #f3ead8;
 }
 
 .nav-item {
-    padding-right: 50px;
+    padding-right: 70px;
+}
+
+.jumbotron-fluid {
+    background-image: url(https://66.media.tumblr.com/b64a4f2271dc3c36fc362c940488235a/tumblr_p6awqiZIBL1wgm3uuo2_500.gif);
+    background-size: cover;
+    height: 512px;
+    margin-top: 120px;
+    opacity: 0.275;
+    width: 100%;
+}
+
+.ontop {
+    color: #896f4c;
+    position: relative;
+    bottom: 330px;
+    padding-left: 1200px;
+}
+
+.btn {
+    color: #5a452e;
+    font-size: 20px;
 }
 
 
-.banner {
-    padding-top: 140px;
+.ontop2 {
+    background-color: hsla(22, 43%, 83%, 0.6);
+    position: relative;
+    bottom: 430px;
+    margin-left: 1225px;
 }
+
+.btn:hover {
+    color: hsla(22, 43%, 83%, 0.6);
+}
+
+.ontop2:hover {
+    background-color: hsla(31, 32%, 27%, 0.6);
+}
+
