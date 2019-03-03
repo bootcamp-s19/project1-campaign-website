@@ -1,3 +1,8 @@
+body {
+    text-align: center;
+    position: relative;
+}
+
 /* navigation bar */
 
 .logo-link {
@@ -105,9 +110,9 @@ h5, h6, .card-p {
 
 /* included this bc I couldn't get the card links text to center, even using !important */
 
-body {
+/* body {
     text-align: center;
-}
+} */
 
 /* vote banner */
 
